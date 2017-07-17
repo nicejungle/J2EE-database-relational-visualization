@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="visual3"
+  id="myeclipse.1468327527109"
+  context-root="/day08-javaweb-frameset"
+  j2ee-spec="5.0"
+  archive="visual3.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
