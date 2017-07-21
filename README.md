@@ -1,5 +1,6 @@
 # J2EE-database-relational-visualization
-j2ee 数据库关系可视化  渣渣做的毕业设计，主要用到了百度的echarts图标库来实现的
+j2ee 数据库关系可视化  渣渣做的毕业设计，主要用到了百度的echarts图表库来实现的
 当做毕业设计实在太水，有空会把项目改成支持任意关系型数据库结构可视化工具，等工作稳定下来就动手。
 目前在想通用的实现结构，但感觉总不是很简洁，碰到复杂情况也不能很好的表示出来
+
 ##Visualized Design and Development of User Interaction Based on Web Large Data###AbstractWith the advent of the Internet era, the data needs to be stored and handled increasingly large, large data and intricate relationship to its storage, use, display method has become a need to carefully study the question, how to effectively store large amounts of data, May retain its relationship, and the relationship between the effective display, for a similar situation, its methods of tools endless. For the case of independent individuals, the data relationship and the content of the two-dimensional icon of the traditional way and effective and intuitive, with the appropriate tools, information can be better communicated to the user object. This project uses the data from the Internet to visualize the display of pure Javascript icon library echarts, the user relationship data with gravitational map to deal with the show, the characteristics of pure Javascript so that it can be smooth in the pc or mobile device display query, while Its highly customizable features also allow users to interact directly through the graphs at the web end, improve the efficiency of information acquisition, and optimize the experience of data display. ###Key Words： Interactive, Visual development, Echarts, Data display
